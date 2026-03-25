@@ -1,0 +1,5 @@
+{
+  "name": "GraphMind: Intelligent Business Graph Explorer",
+  "description": "A graph-based data modeling and natural language query system for business datasets, powered by Gemini.",
+  "requestFramePermissions": []
+}
